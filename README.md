@@ -16,7 +16,7 @@ npm install --global github-email
 github-email ghusername
 ```
 
-# Authenication Token
+# Authentication Token
 
 If the `GH_EMAIL_TOKEN` environment variable is not set, the script will ask
 the user to generate a personal access token [for authentication](https://developer.github.com/v3/auth/#basic-authentication). To do this:
